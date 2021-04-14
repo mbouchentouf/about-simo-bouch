@@ -1,2 +1,26 @@
-#image
-     width :45em;
+
+.header {
+    padding: 1px;
+    text-align: center;
+    background: darkturquoise;
+    color: black;
+    font-size: 35px;
+}
+
+.picture{
+    width: 400px;
+    height: 400px;
+    border: 1px solid black;
+}
+
+.body {
+    color: black;
+    background-color: aqua;
+}
+
+.main-body {
+    max-width: 700px;
+    margin: auto;
+    padding: 2em;
+
+}
